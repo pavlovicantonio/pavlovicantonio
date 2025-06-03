@@ -42,7 +42,7 @@ Personal portfolio and service site — animated intro, services overview, and c
 
 ## 📬 Get in Touch
 
-- 📧 Email: your@email.com *(zamijeni sa stvarnim)*
+- 📧 Email: apwebing@gmail.com
 - 🌐 Portfolio: [apwebing.netlify.app](https://apwebing.netlify.app)
 - 🐙 GitHub: [@pavlovicantonio](https://github.com/pavlovicantonio)
 
